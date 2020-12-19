@@ -1,2 +1,2 @@
 # fakegenbot
-[Hello](heroku.com/deploy)
+[Hello](https://heroku.com/deploy)
