@@ -62,7 +62,7 @@ if($msg == '/gen')
 Bot('sendmessage',[
 'chat_id'=>$chat_id,
 'photo'=>$photo
-'text'=> "***🌐 Generated Data 🌐***
+'caption'=> "***🌐 Generated Data 🌐***
 
 ***FIRST NAME***: `$created`
 
