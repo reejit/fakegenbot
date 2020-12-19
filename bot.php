@@ -59,7 +59,7 @@ $description = $get['of'][0]['alt_description'];
 $photo = $get['urls'][0]['regular'];
 
 if($msg == '/gen')
-Bot('sendmessage',[
+Bot('sendphoto',[
 'chat_id'=>$chat_id,
 'photo'=>$photo
 'caption'=> "***🌐 Generated Data 🌐***
